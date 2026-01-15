@@ -39,5 +39,4 @@ post-processing practices used in GIS and hydrology.
 - Watershed analysis
 - Hydrological studies
 
-## License
-MIT License
+
