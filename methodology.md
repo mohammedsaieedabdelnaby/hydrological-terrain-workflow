@@ -51,7 +51,8 @@ Derived parameters include:
 - Longest flow path
 - Stream length
 - Reach slope
-- Time of concentration (where applicable)
+- Time of concentration (where applicable) Using kirpich Equation $t_c = K \cdot L^{0.77} \cdot S^{-0.385}$
+
 
 These parameters are exported in tabular format for direct use in
 HEC-HMS.
