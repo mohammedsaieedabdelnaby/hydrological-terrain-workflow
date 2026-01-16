@@ -1,5 +1,3 @@
-# Methodology
-
 This document describes the hydrological methodology used to derive
 catchment parameters for HEC-HMS from a Digital Elevation Model (DEM).
 
@@ -43,6 +41,7 @@ outlets.
 Post-processing steps include stream cleaning, basin refinement, and
 geometric calculations.
 
+<img width="792" height="483" alt="image" src="https://github.com/user-attachments/assets/63d6d73b-f938-41fc-aca0-ce8b303fff0d" />
 
 
 ## 7. HEC-HMS Parameter Extraction
@@ -56,3 +55,9 @@ Derived parameters include:
 
 These parameters are exported in tabular format for direct use in
 HEC-HMS.
+
+
+<img width="1502" height="73" alt="image" src="https://github.com/user-attachments/assets/08aa5b6b-8fc2-4b92-90e0-d0f92c27a22d" />
+
+
+
